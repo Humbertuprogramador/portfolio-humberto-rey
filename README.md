@@ -41,7 +41,7 @@ Aplicación web que permite consultar el clima actual de cualquier ciudad utiliz
 - Diseño responsive
 
 🔗 Demo: https://humbertuprogramador.github.io/weather-app-js/  
-💻 Código: https://github.com/Humbertoprogramador/weather-app-js
+💻 Código: https://github.com/Humbertuprogramador/weather-app-js
 
 ---
 
@@ -54,7 +54,7 @@ Aplicación de gestión de tareas desarrollada con JavaScript puro.
 - Diseño responsive
 
 🔗 Demo: https://humbertuprogramador.github.io/todo-app-js/  
-💻 Código: https://github.com/Humbertoprogramador/todo-app-js
+💻 Código: https://github.com/Humbertuprogramador/todo-app-js
 
 ---
 
@@ -66,7 +66,7 @@ Landing page enfocada en maquetación profesional y diseño responsive.
 - Diseño adaptable a distintos dispositivos
 
 🔗 Demo: https://humbertuprogramador.github.io/hr-web-design/  
-💻 Código: https://github.com/Humbertoprogramador/hr-web-design
+💻 Código: https://github.com/Humbertuprogramador/hr-web-design
 
 ---
 
@@ -79,7 +79,7 @@ Sitio web para barbería orientado a presentar servicios y facilitar el contacto
 - Enfoque en experiencia de usuario
 
 🔗 Demo: https://humbertuprogramador.github.io/barber-wolf/  
-💻 Código: https://github.com/Humbertoprogramador/barber-wolf
+💻 Código: https://github.com/Humbertuprogramador/barber-wolf
 
 ---
 
