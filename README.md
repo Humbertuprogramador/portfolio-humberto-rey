@@ -78,7 +78,7 @@ Sitio web para barbería orientado a presentar servicios y facilitar el contacto
 - Maquetación responsive
 - Enfoque en experiencia de usuario
 
-🔗 Demo: https://humbertuprogramador.github.io/barber-wolf/  
+🔗 Demo: https://mdrasen.github.io/Barber-Shop-Website_HTML-CSS-JS/
 💻 Código: https://github.com/Humbertuprogramador/barber-wolf
 
 ---
