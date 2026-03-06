@@ -2,7 +2,7 @@ Portfolio web personal donde presento mis proyectos y habilidades como **Fronten
 El objetivo de este sitio es mostrar de forma clara y profesional mi experiencia desarrollando interfaces web modernas y aplicaciones con JavaScript.
 
 🔗 **Demo online:**  
-https://humbertoprogramador.github.io/portfolio-humberto-rey/
+https://humbertuprogramador.github.io/portfolio-humberto-rey/
 
 ---
 
@@ -40,7 +40,7 @@ Aplicación web que permite consultar el clima actual de cualquier ciudad utiliz
 - Fetch API y async/await
 - Diseño responsive
 
-🔗 Demo: https://humbertoprogramador.github.io/weather-app-js/  
+🔗 Demo: https://humbertuprogramador.github.io/weather-app-js/  
 💻 Código: https://github.com/Humbertoprogramador/weather-app-js
 
 ---
@@ -53,7 +53,7 @@ Aplicación de gestión de tareas desarrollada con JavaScript puro.
 - Manipulación dinámica del DOM
 - Diseño responsive
 
-🔗 Demo: https://humbertoprogramador.github.io/todo-app-js/  
+🔗 Demo: https://humbertuprogramador.github.io/todo-app-js/  
 💻 Código: https://github.com/Humbertoprogramador/todo-app-js
 
 ---
@@ -65,7 +65,7 @@ Landing page enfocada en maquetación profesional y diseño responsive.
 - CSS moderno
 - Diseño adaptable a distintos dispositivos
 
-🔗 Demo: https://humbertoprogramador.github.io/hr-web-design/  
+🔗 Demo: https://humbertuprogramador.github.io/hr-web-design/  
 💻 Código: https://github.com/Humbertoprogramador/hr-web-design
 
 ---
@@ -78,7 +78,7 @@ Sitio web para barbería orientado a presentar servicios y facilitar el contacto
 - Maquetación responsive
 - Enfoque en experiencia de usuario
 
-🔗 Demo: https://humbertoprogramador.github.io/barber-wolf/  
+🔗 Demo: https://humbertuprogramador.github.io/barber-wolf/  
 💻 Código: https://github.com/Humbertoprogramador/barber-wolf
 
 ---
@@ -86,4 +86,4 @@ Sitio web para barbería orientado a presentar servicios y facilitar el contacto
 ## 🚀 Cómo ejecutar el proyecto localmente
 
 ```bash
-git clone https://github.com/Humbertoprogramador/portfolio-humberto-rey.git
+git clone https://github.com/Humbertuprogramador/portfolio-humberto-rey.git
